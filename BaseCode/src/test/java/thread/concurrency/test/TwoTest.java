@@ -1,3 +1,4 @@
+package thread.concurrency.test;
 import org.junit.Test;
 
 import thread.concurrency.two.Account;
@@ -21,7 +22,10 @@ import thread.concurrency.two.TicketOffice1;
 import thread.concurrency.two.TicketOffice2;
 import thread.concurrency.two.Writer;
 
-/** * @author  作者 : 范德胜
+/** 
+  * 这里的测试代码均来自《Java7并发编程实战手册》
+  * 第二章   线程同步基础
+  * @author  作者 : 范德胜
   * @date 创建时间：2017年6月18日 上午10:17:25
   * @version 1.0 
   */
